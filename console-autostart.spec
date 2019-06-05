@@ -1,6 +1,6 @@
 Name     : console-autostart
 Version  : 1
-Release  : 1
+Release  : 2
 Summary  : Auto-start the tty1 terminal login
 Group    : Default
 License  : LGPL-2.1
